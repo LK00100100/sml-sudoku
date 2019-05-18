@@ -1,5 +1,5 @@
 # sml-sudoku
-![GitHub](https://img.shields.io/github/license/LK00100100/sml-sudoku.svg)
+![GitHub](https://img.shields.io/github/license/lk00100100/sml-sudoku.svg)
 ![RepoSize](https://img.shields.io/github/repo-size/LK00100100/sml-sudoku.svg)
 ![GitHub stars](https://img.shields.io/github/stars/LK00100100/sml-sudoku.svg?style=social)
 
